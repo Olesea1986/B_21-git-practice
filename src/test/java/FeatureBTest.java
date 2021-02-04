@@ -3,5 +3,7 @@ public class FeatureBTest {
         System.out.println("more changes on feature-b");
 
         System.out.println("again is not working");
+
+        System.out.println("work is in progress");
     }
 }
